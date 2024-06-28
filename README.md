@@ -1,5 +1,5 @@
 
-# MLGA Mini Project - Recommending courses in MOOC platforms
+# EduLink : Online Course Recommender system using GCN
 
 ## Installation
 
